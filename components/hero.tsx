@@ -59,7 +59,7 @@ export function Hero() {
 
           <div className="flex gap-4 ml-7">
             <a
-              href="https://github.com"
+              href="https://github.com/negeze"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
@@ -68,7 +68,7 @@ export function Hero() {
               <span className="sr-only">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/negese-zeleke-1442a23aa"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
